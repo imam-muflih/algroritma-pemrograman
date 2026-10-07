@@ -1,0 +1,13 @@
+ALGORITMA Total_Pembayaran DEKLARASI
+harga_satuan		: real jumlah_barang : integer biaya_layanan : real subtotal	: real
+total	: real
+
+DESKRIPSI      read(Harga_Satuan )
+read(Harga_Barang)
+read(Biaya_Layanan) 
+
+subtotal <- Total_Barang * Harga_Barang
+Total  <- Sub_Total + Biaya_Layanan
+
+write(Sub_Total)
+write(Total)

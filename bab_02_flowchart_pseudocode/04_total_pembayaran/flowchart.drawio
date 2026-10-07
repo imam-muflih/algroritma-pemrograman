@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="9fqzlcGQ4vwslAUMDvOY">
+    <mxGraphModel dx="1457" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;div style=&quot;display:none&quot;&gt;&lt;div id=&quot;one-google-bar&quot; class=&quot;ndfHFb-c4YZDc-Woal0c-jcJzye-ZMv3u ndfHFb-c4YZDc-n1UuX-Bz112c&quot;&gt;&lt;header class=&quot;gb_y gb_K&quot; id=&quot;gb&quot; role=&quot;none&quot;&gt;&lt;div class=&quot;gb_z&quot;&gt;&lt;a class=&quot;gb_A&quot; aria-label=&quot;Sign in&quot; href=&quot;https://accounts.google.com/ServiceLogin?service=wise&amp;amp;passive=1209600&amp;amp;osid=1&amp;amp;continue=https://drive.google.com/file/d/1UXi2_5piaKZKd7tOKZCzyOSCx9ssvsrI/view?usp%3Dsharing&amp;amp;followup=https://drive.google.com/file/d/1UXi2_5piaKZKd7tOKZCzyOSCx9ssvsrI/view?usp%3Dsharing&amp;amp;ec=GAZAGQ&quot; target=&quot;_top&quot;&gt;&lt;span class=&quot;gb_2&quot;&gt;Sign in&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/header&gt;&lt;/div&gt;&lt;/div&gt;" link="&lt;div style=&quot;display:none&quot;&gt;&lt;div id=&quot;one-google-bar&quot; class=&quot;ndfHFb-c4YZDc-Woal0c-jcJzye-ZMv3u ndfHFb-c4YZDc-n1UuX-Bz112c&quot;&gt;&lt;header class=&quot;gb_y gb_K&quot; id=&quot;gb&quot; role=&quot;none&quot;&gt;&lt;div class=&quot;gb_z&quot;&gt;&lt;a class=&quot;gb_A&quot; aria-label=&quot;Sign in&quot; href=&quot;https://accounts.google.com/ServiceLogin?service=wise&amp;amp;passive=1209600&amp;amp;osid=1&amp;amp;continue=https://drive.google.com/file/d/1UXi2_5piaKZKd7tOKZCzyOSCx9ssvsrI/view?usp%3Dsharing&amp;amp;followup=https://drive.google.com/file/d/1UXi2_5piaKZKd7tOKZCzyOSCx9ssvsrI/view?usp%3Dsharing&amp;amp;ec=GAZAGQ&quot; target=&quot;_top&quot;&gt;&lt;span class=&quot;gb_2&quot;&gt;Sign in&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/header&gt;&lt;/div&gt;&lt;/div&gt;" id="87QCCbrByMwj0rL8N4R7-1">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="20" width="30" x="40" y="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-5" edge="1" parent="1" source="GS0oI3F0ci3TqW5tRXUk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GS0oI3F0ci3TqW5tRXUk-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="START" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-7" edge="1" parent="1" source="GS0oI3F0ci3TqW5tRXUk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GS0oI3F0ci3TqW5tRXUk-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;Input=Jumlah_Barang&lt;/div&gt;&lt;div&gt;Input=Harga_Barang&lt;/div&gt;&lt;div&gt;Input=Biaya_Layanan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="320" x="254" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-9" edge="1" parent="1" source="GS0oI3F0ci3TqW5tRXUk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GS0oI3F0ci3TqW5tRXUk-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sub_Total=Jumlah_Barang * Harga_Barang&lt;div&gt;Total= Sub_Total + Biaya_Layanan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="264" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-11" edge="1" parent="1" source="GS0oI3F0ci3TqW5tRXUk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GS0oI3F0ci3TqW5tRXUk-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Tampilkan=Sub_Total&lt;br&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tampilkan=Total&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="279" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="GS0oI3F0ci3TqW5tRXUk-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="END" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

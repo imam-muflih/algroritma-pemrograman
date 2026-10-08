@@ -1,4 +1,4 @@
 print("Halo, Python dari VS Code!")
 
-nama = input("Nama:Imam Muflih Abqari ")
+nama = input("Nama: ")
 print(f"Selamat belajar Python, {nama}!")

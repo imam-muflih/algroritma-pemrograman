@@ -1,10 +1,12 @@
+# Latihan 2 - Profil Sederhana 
+
 nama = "Imam Muflih Abqari"
 usia = 18 
 kota = "Purwodadi"
 tinggi_badan = 178
 status_aktif = True
 
-print(f"=== PROFIL SEDERHANA ===")
+print("=== PROFIL SEDERHANA ===")
 print(f"Nama: {nama}")
 print(f"Usia: {usia}")
 print(F"Kota: {kota}")

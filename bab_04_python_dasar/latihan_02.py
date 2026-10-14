@@ -4,6 +4,7 @@ kota = "Purwodadi"
 tinggi_badan = 178
 status_aktif = True
 
+print(f"=== PROFIL SEDERHANA ===")
 print(f"Nama: {nama}")
 print(f"Usia: {usia}")
 print(F"Kota: {kota}")

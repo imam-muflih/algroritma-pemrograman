@@ -2,7 +2,7 @@ parameter
 ***x*** = 9
 ***Y*** = 0
 ***z*** =09
-
+pada praktik 01 saya membuat perulangan for,pada praktik 02 saya membuat perulangan while pada praktik 03 saya membuat program sederhana mini kasir
 hasil uji coba:
 X= 9
 z= 9
